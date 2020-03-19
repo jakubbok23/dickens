@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
-#define MODULUS 105161238
+#define MODULUS 102348769
 
 struct mem_entry {
 unsigned long value;
